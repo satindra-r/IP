@@ -1,1 +1,0 @@
-gcc -o ip.exe ip.c
